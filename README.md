@@ -16,4 +16,5 @@
 # Що використав:
 * Selenide
 * junit
+* Maven
 
